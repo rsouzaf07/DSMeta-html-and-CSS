@@ -1,11 +1,18 @@
-<h1> DSMeta <h1>
+# DSMeta 
 
-<h3>HTML e CSS com responsividade de um portal de vendas com os dados dos vendedores! 
+    Pagina web de um portal de vendas com dados das vendas se dos vendedores! Esse é um pré-projeto feito para a semana Spring React
+    do professor Nélio Alves!
+        
+    
+    
+    ##Layout Web
+    ![Screenshot 2022-09-06 at 16-14-35 DS meta](https://user-images.githubusercontent.com/98281957/188720025-dcd136a1-5bd9-450d-8e2a-49c32fd7d81c.png)
 
-Somente o html e CSS
-
-ainda farei a parte de integração com o backend! 
-
-Frontend será com React, o backend com Java e banco de dado H2!<h3> 
-
-Essa projeto faz parte da trilha de desenvolvimento do Professor Nélio Alves! 
+    
+    Nesse pré-projeto só foram desenvolvidos o HTML e o CSS responsivo! 
+    
+    Ainda será feita integração com o backend e banco de dados! 
+    
+    #Autor: 
+    
+    https://www.linkedin.com/in/rafael-de-souza-freire-96a94171/
